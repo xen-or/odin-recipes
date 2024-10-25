@@ -2,4 +2,4 @@
 
 Hi to whoever is reading this hope you have a good day. So this is my first time doing something related to web dev but so far html was smooth hopefully javascript,css,react,node and backend languages will go smoothly too
 
-Anyways I will be making the use of bold,italiscs,paragraphs,headings,images to make a step by step guide on how to develop a website for biriyani,pizza and pasta recipes since those are my favourites
+Anyways I will be making the use of bold,italiscs,paragraphs,headings,images to make a step by step guide on how to develop a website for biriyani,pizza and pasta recipes since those are my favourites.Also to whoever is reading this im so sorry for not seperating the images to a sepearate folder,i will be sure to do so in the future projects
